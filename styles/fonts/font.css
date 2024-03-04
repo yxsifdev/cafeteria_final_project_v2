@@ -1,0 +1,16 @@
+::root {
+    --bg: #121212;
+    --primary: #121212;
+    --secondary: #121212;
+    --description: #4d4d4d;
+}
+
+@font-face {
+    font-family: Marshena;
+    src: url(Marshena_DEMO.ttf);
+}
+
+@font-face {
+    font-family: Choco;
+    src: url(Choco.otf);
+}
